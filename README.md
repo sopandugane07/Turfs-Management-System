@@ -49,7 +49,6 @@ The Software system is a Turf Management System where respective turfs can be ma
 -------------------------------------------------------------------------------------------------------
 
 **Admin**
----------
 
 •	**INFORMATION** - Turf Details such as name, location, price, timings can be saved.
 
@@ -58,7 +57,7 @@ The Software system is a Turf Management System where respective turfs can be ma
 •	**HISTORY** - Booking status of the turf for a particular day can be checked, with customer details for the booked slot.
 
 **User**
----------
+
 •	**PROFILE** - Profile details such as name, phone no, email id, Gender and address to be saved by the user.
 
 •	**BOOK SLOT** - User can book turf slots according to their preference and availability.
